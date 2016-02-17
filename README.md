@@ -1,2 +1,2 @@
-# Y86-Deconstructer
-Deconstructs and prints a y86 program, includes a makefile for compiling 
+# Y86-Disassembler
+Disassembles and prints a y86 program, includes a makefile for compiling 
